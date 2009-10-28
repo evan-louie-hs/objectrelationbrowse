@@ -1,3 +1,4 @@
+#labels Featured
 Installation instructions:
 
 - Unpack the archive and place the 'objectrelationbrowse' folder in the 'extension' folder.
