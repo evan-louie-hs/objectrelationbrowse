@@ -1,3 +1,4 @@
+#labels Featured
 ===1. Context===
 One of the most powerful features of eZ publish is the option to create relationships between many kinds of objects. However, the standard 'browse' method used to relate objects proved to be too cumbersome when working with a large number of objects (>100.000) and many relations (>10) per object.
 
